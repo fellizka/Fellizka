@@ -11,3 +11,7 @@ HTML, CSS Fullstack
 
 # About me
 Fullstack developer from Russia 16 y.o
+
+# My Projects
+Programming School [*CodeWi*](https://discord.gg/p3WpQsVD)\
+Discord Server [**NotWork** *Nightmares*](https://discord.gg/Y6TpDbBu)
